@@ -12,7 +12,7 @@ switch(categoria){
         break
     case "Bronze":
         pontos = 10
-        console.log(`Categoria Prata: - Pontuação: ${pontos} pontos`)      
+        console.log(`Categoria Bronze: - Pontuação: ${pontos} pontos`)      
         break
     default:
         console.log("Categoria Inválida")      
